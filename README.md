@@ -7,3 +7,7 @@ In my opinion, the CSAPP is a total introduction to the computer,but it does not
 
 The textbook<计算机组成与设计：硬件/软件接口Mips版> can give a better understanding of  the whole computer organization, which makes sense to my following learning about the computer architech.
 
+While the course website is https://inst.eecs.berkeley.edu/~cs61c/sp15/#Staff
+
+
+
