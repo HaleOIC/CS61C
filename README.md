@@ -9,5 +9,4 @@ The textbook<计算机组成与设计：硬件/软件接口Mips版> can give a b
 
 While the course website is https://inst.eecs.berkeley.edu/~cs61c/sp15/#Staff
 
-
-
+For my major, more complements is about the embeded machine,so some notes and codes are in the `./HUST`, which is about `IO interval`,`interrupt technology`and`DMA technology `
